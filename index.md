@@ -22,7 +22,7 @@ OOP graphical calculator using Processing
 
 OOP space-themed game using Processing
 
-![Space Game]()
+![Space Game](https://github.com/SlySlinky/ProgrammingPortfolio/blob/gh-pages/images/space.png?raw=true)
 
 [Source Code](https://github.com/SlySlinky/ProgrammingPortfolio/tree/gh-pages/src/space)
 
