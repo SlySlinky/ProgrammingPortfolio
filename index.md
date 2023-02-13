@@ -2,6 +2,14 @@
 
 ## Programming Semester 1 Projects:
 
+### Etch-A-Sketch Oct 2022
+
+Processing program that replicates an Etch-A-Sketch
+
+![Etch-A-Sketch]()
+
+[Source Code]()
+
 ### Calculator Nov 2022
 
 OOP graphical calculator using Processing
