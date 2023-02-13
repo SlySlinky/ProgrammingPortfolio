@@ -14,9 +14,9 @@ Processing program that replicates an Etch-A-Sketch
 
 Processing: OOP cars drive by on a road
 
-![Cars]()
+![Cars](https://github.com/SlySlinky/ProgrammingPortfolio/blob/gh-pages/images/cars.png?raw=true)
 
-[Source Code]()
+[Source Code](https://github.com/SlySlinky/ProgrammingPortfolio/tree/gh-pages/src/cars)
 
 ### Calculator Nov 2022
 
@@ -40,14 +40,14 @@ OOP space-themed game using Processing
 
 Python: Guess the number that the computer is thinking of
 
-![Number Guessing Game]()
+![Number Guessing Game](https://github.com/SlySlinky/ProgrammingPortfolio/blob/gh-pages/images/number.png?raw=true)
 
-[Source Code]()
+[Source Code](https://github.com/SlySlinky/ProgrammingPortfolio/tree/gh-pages/src/number)
 
 ### Shapes Feb 2023
 
 Python: Calculate surface area and volume for given box, pyramid, or sphere
 
-![Shapes]()
+![Shapes](https://github.com/SlySlinky/ProgrammingPortfolio/blob/gh-pages/images/shapes.png?raw=true)
 
-[Source Code]()
+[Source Code](https://github.com/SlySlinky/ProgrammingPortfolio/tree/gh-pages/src/shapes)
