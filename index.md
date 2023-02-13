@@ -2,19 +2,19 @@
 
 ## Programming Semester 1 Projects:
 
-### Space Game
-
-OOP space-themed game using Processing
-
-![Space Game]()
-
-[Source Code]()
-
-### Calculator
+### Calculator Nov 2022
 
 OOP graphical calculator using Processing
 
 ![Calculator]()
+
+[Source Code]()
+
+### Space Game Dec 2022
+
+OOP space-themed game using Processing
+
+![Space Game]()
 
 [Source Code]()
 
