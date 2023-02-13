@@ -6,9 +6,9 @@
 
 Processing program that replicates an Etch-A-Sketch
 
-![Etch-A-Sketch]()
+![Etch-A-Sketch](https://github.com/SlySlinky/ProgrammingPortfolio/blob/gh-pages/images/Etch.png?raw=true)
 
-[Source Code]()
+[Source Code](https://github.com/SlySlinky/ProgrammingPortfolio/tree/gh-pages/src/etch)
 
 ### Calculator Nov 2022
 
@@ -24,6 +24,6 @@ OOP space-themed game using Processing
 
 ![Space Game]()
 
-[Source Code]()
+[Source Code](https://github.com/SlySlinky/ProgrammingPortfolio/tree/gh-pages/src/space)
 
 ## Programming Semester 2 Projects:
