@@ -6,7 +6,7 @@
 
 OOP graphical calculator using Processing
 
-![Calculator]()
+![Calculator](https://github.com/SlySlinky/ProgrammingPortfolio/blob/gh-pages/images/calc.png?raw=true)
 
 [Source Code]()
 
