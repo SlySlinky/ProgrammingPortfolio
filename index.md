@@ -56,6 +56,6 @@ Python: Calculate surface area and volume for given box, pyramid, or sphere
 
 Takes an input word and re-writes it using Pig Latin - created with Python
 
-![Pig Latin](https://github.com/SlySlinky/ProgrammingPortfolio/blob/gh-pages/images/pigLatin.png?raw=true)
+![Pig Latin](https://github.com/SlySlinky/ProgrammingPortfolio/blob/gh-pages/images/PigLatin.png?raw=true)
 
 [Source Code](https://github.com/SlySlinky/ProgrammingPortfolio/tree/gh-pages/src/pig)
