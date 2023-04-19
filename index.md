@@ -4,7 +4,7 @@
 
 ### Etch-A-Sketch Sept 2022
 
-Processing program that replicates an Etch-A-Sketch
+Processing program that replicates an Etch-A-Sketch.
 
 ![Etch-A-Sketch](https://github.com/SlySlinky/ProgrammingPortfolio/blob/gh-pages/images/Etch.png?raw=true)
 
@@ -12,7 +12,7 @@ Processing program that replicates an Etch-A-Sketch
 
 ### Cars Oct 2022
 
-Processing: OOP cars drive by on a road
+Processing: OOP cars drive by on a road.
 
 ![Cars](https://github.com/SlySlinky/ProgrammingPortfolio/blob/gh-pages/images/cars.png?raw=true)
 
@@ -20,7 +20,7 @@ Processing: OOP cars drive by on a road
 
 ### Calculator Nov 2022
 
-OOP graphical calculator using Processing
+OOP graphical calculator using Processing.
 
 ![Calculator](https://github.com/SlySlinky/ProgrammingPortfolio/blob/gh-pages/images/calc.png?raw=true)
 
@@ -28,7 +28,7 @@ OOP graphical calculator using Processing
 
 ### Space Game Dec 2022
 
-OOP space-themed game using Processing
+OOP space-themed game using Processing.
 
 ![Space Game](https://github.com/SlySlinky/ProgrammingPortfolio/blob/gh-pages/images/space.png?raw=true)
 
@@ -38,7 +38,7 @@ OOP space-themed game using Processing
 
 ### Number Guessing Game Jan 2023
 
-Python: Guess the number that the computer is thinking of
+Python: Guess the number that the computer is thinking of.
 
 ![Number Guessing Game](https://github.com/SlySlinky/ProgrammingPortfolio/blob/gh-pages/images/number.png?raw=true)
 
@@ -46,7 +46,7 @@ Python: Guess the number that the computer is thinking of
 
 ### Shapes Feb 2023
 
-Python: Calculate surface area and volume for given box, pyramid, or sphere
+Python: Calculate surface area and volume for given box, pyramid, or sphere.
 
 ![Shapes](https://github.com/SlySlinky/ProgrammingPortfolio/blob/gh-pages/images/shapes.png?raw=true)
 
@@ -54,8 +54,16 @@ Python: Calculate surface area and volume for given box, pyramid, or sphere
 
 ### Pig Latin
 
-Takes an input word and re-writes it using Pig Latin - created with Python
+Takes an input word and re-writes it using Pig Latin - created with Python.
 
 ![Pig Latin](https://github.com/SlySlinky/ProgrammingPortfolio/blob/gh-pages/images/PigLatin.png?raw=true)
 
 [Source Code](https://github.com/SlySlinky/ProgrammingPortfolio/tree/gh-pages/src/pig)
+
+### Random Word App March 2023
+
+In Python - pieces together an amount of random words chosen by the user. Takes the prefix, root, and suffix to create a rough definition.
+
+![Random Word App](https://github.com/SlySlinky/ProgrammingPortfolio/blob/gh-pages/images/RandomWordApp.png?raw=true)
+
+[Source Code](https://github.com/SlySlinky/ProgrammingPortfolio/tree/gh-pages/src/RandomWordApp)
