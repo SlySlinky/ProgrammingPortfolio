@@ -66,4 +66,4 @@ In Python - pieces together an amount of random words chosen by the user. Takes 
 
 ![Random Word App](https://github.com/SlySlinky/ProgrammingPortfolio/blob/gh-pages/images/RandomWordApp.png?raw=true)
 
-[Source Code](https://github.com/SlySlinky/ProgrammingPortfolio/tree/gh-pages/src/RandomWordApp)
+[Source Code](https://github.com/SlySlinky/ProgrammingPortfolio/tree/gh-pages/src/words)
