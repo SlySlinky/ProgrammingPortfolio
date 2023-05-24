@@ -1,5 +1,3 @@
-# Welcome to Connor Soelberg's Programming Portfolio
-
 ## Programming Semester 1 Projects:
 
 ### Etch-A-Sketch Sept 2022
