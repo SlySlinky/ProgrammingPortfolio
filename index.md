@@ -72,16 +72,16 @@ In Python - pieces together an amount of random words chosen by the user. Takes 
 
 Uses Python mode in Processing: A collection of four minigames found in a casino. Blackjack, slots, roulette, and craps using OOP. This was the final project in the class. It was worked on for several months.
 
-![Casino Game Home]()
+![Casino Game Home](https://github.com/SlySlinky/ProgrammingPortfolio/blob/gh-pages/images/CasinoGameHome.png?raw=true)
 
-![Blackjack]()
+![Blackjack](https://github.com/SlySlinky/ProgrammingPortfolio/blob/gh-pages/images/Blackjack.png?raw=true)
 
-![Roulette]()
+![Roulette](https://github.com/SlySlinky/ProgrammingPortfolio/blob/gh-pages/images/Roulette.png?raw=true)
 
-![Slots]()
+![Slots](https://github.com/SlySlinky/ProgrammingPortfolio/blob/gh-pages/images/Slots.png?raw=true)
 
-![Craps]()
+![Craps](https://github.com/SlySlinky/ProgrammingPortfolio/blob/gh-pages/images/Craps.png?raw=true)
 
-![Help Page]()
+![Help Page](https://github.com/SlySlinky/ProgrammingPortfolio/blob/gh-pages/images/Help.png?raw=true)
 
 [Source Code]()
