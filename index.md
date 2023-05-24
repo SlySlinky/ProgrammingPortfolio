@@ -85,3 +85,5 @@ Uses Python mode in Processing: A collection of four minigames found in a casino
 ![Help Page](https://github.com/SlySlinky/ProgrammingPortfolio/blob/gh-pages/images/Help.png?raw=true)
 
 [Source Code](https://github.com/SlySlinky/ProgrammingPortfolio/tree/gh-pages/src/casino)
+
+Contact: mailto:consoelberg@gmail.com
