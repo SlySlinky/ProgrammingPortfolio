@@ -67,3 +67,21 @@ In Python - pieces together an amount of random words chosen by the user. Takes 
 ![Random Word App](https://github.com/SlySlinky/ProgrammingPortfolio/blob/gh-pages/images/RandomWordApp.png?raw=true)
 
 [Source Code](https://github.com/SlySlinky/ProgrammingPortfolio/tree/gh-pages/src/words)
+
+### Casino Game May 2023
+
+Uses Python mode in Processing: A collection of four minigames found in a casino. Blackjack, slots, roulette, and craps using OOP. This was the final project in the class. It was worked on for several months.
+
+![Casino Game Home]()
+
+![Blackjack]()
+
+![Roulette]()
+
+![Slots]()
+
+![Craps]()
+
+![Help Page]()
+
+[Source Code]()
