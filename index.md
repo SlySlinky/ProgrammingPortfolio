@@ -86,6 +86,12 @@ Uses Python mode in Processing: A collection of four minigames found in a casino
 
 [Source Code](https://github.com/SlySlinky/ProgrammingPortfolio/tree/gh-pages/src/casino)
 
+## Certifications:
+
+Programming 1 Certified
+
+Python language Certified
+
 #### Contact:
 
 [Email](mailto:consoelberg@gmail.com)
